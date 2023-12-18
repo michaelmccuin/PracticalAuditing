@@ -36,7 +36,7 @@ I read and comprehended the control family (3.10 Media Protection), their discus
 <br />
 Step 4:  <br/>
 Data Collection is acquired through interview, testing or documentation. <br/>
-This audit gathered evidence of Policy and Procedures (MP-1) through an interview, in which required thorough notetaking.
+This audit gathered evidence of Policy and Procedures (MP-1) through an interview, in which required thorough notetaking. <br/>
 <img src="https://i.imgur.com/jILG91h.jpg"
 <br />
 <br />
