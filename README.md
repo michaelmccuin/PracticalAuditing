@@ -3,7 +3,7 @@
 <h2>Description</h2>
 
 📊 Overview
-  - Conducted a hands-on practical auditing lab, focusing on NIST SP 800-53 controls for 3.1 Media Protection (MP-1 to MP-8), with the primary objective of fortifying security practices for information systems within an organization.
+  - Conducted a hands-on practical auditing lab, focusing on NIST SP 800-53 controls for 3.1 Media Protection (MP-1 through MP-8), with the primary objective of fortifying security practices for information systems within an organization.
 
 🔍 Key Points
   - Control Analysis: Thorough examination and understanding of each control within the Media Protection family.
