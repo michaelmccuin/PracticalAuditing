@@ -1,9 +1,9 @@
-<h1>Pracitical Auditing</h1>
+<h1>Practical Auditing</h1>
 
 <h2>Description</h2>
 
 📊 Overview
-  - Conducted a hands-on practical auditing lab, focusing on NIST SP 800-53 controls for Media Protection (MP-1 to MP-8), with the primary objective of fortifying security practices for information systems within an organization.
+  - Conducted a hands-on practical auditing lab, focusing on NIST SP 800-53 controls for 3.1 Media Protection (MP-1 to MP-8), with the primary objective of fortifying security practices for information systems within an organization.
 
 🔍 Key Points
   - Control Analysis: Thorough examination and understanding of each control within the Media Protection family.
@@ -11,11 +11,11 @@
   - Evidence Detail: Recorded key personnel interviews and gathered detailed evidence of policies and procedures for a comprehensive audit trail.
 
 🚀 Objectives
-  - Validate compliance with NIST 800-53 controls for Media Protection.
+  - Validate compliance with NIST SP 800-53 controls for Media Protection.
   - Provide clear documentation for objective audit conclusions.
   - Enhance the overall cybersecurity posture of information systems and organizations through effective auditing practices.
 
-🔒 <b>Auditing for a Resilient Future<b>
+🔒 <b>Auditing for a Resilient Future</b>
 
 <h2>Project Walk-Through:</h2>
 
