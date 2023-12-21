@@ -15,8 +15,6 @@
   - Provide clear documentation for objective audit conclusions.
   - Enhance the overall cybersecurity posture of information systems and organizations through effective auditing practices.
 
-🔒 <b>**Auditing for a Resilient Future**</b>
-
 <h2>Project Walk-Through:</h2>
 
 **Step 1: Prior Preparation**  
