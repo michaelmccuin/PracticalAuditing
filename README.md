@@ -29,7 +29,7 @@ I read and comprehended the control family (3.10 Media Protection), their discus
 <img src="https://i.imgur.com/QzC279O.jpg" height="50%" width="50%" /> <br/>
 
 **Step 4: Data Collection**  
-Data collection involved interviews, testing, or documentation. For example, evidence of Policy and Procedures (MP-1) was gathered through an interview that required thorough note-taking. <br/>
+Data collection involved interviews, testing, or documentation. For example, evidence of Policy and Procedures (MP-1) was gathered through an interview, requiring thorough documentation of key insights. <br/>
 ![Image 3](https://i.imgur.com/jILG91h.jpg)
 
 **Step 5: Evidence Detailing**  
