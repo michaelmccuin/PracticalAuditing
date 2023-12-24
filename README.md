@@ -37,11 +37,11 @@ Evidence detailing was gathered during the interview with the Director of IT, Fr
 ![Image 4](https://i.imgur.com/RAJgZdU.jpg)
 
 **Step 6: Findings**  
-Based on the evidence from the interview with Director of IT, Frank Reynolds, the finding was that "No media protection policy or procedures were available." <br/>
+Based on the evidence from the interview with, the finding was that "No media protection policy or procedures were available." <br/>
 ![Image 5](https://i.imgur.com/cUzR2I9.jpg)
 
 **Step 7: Auditor's Disposition**  
-My disposition as an auditor was that there were no policies and procedures for media protection in place. <br/>
+My disposition as an auditor was that there were no policies or procedures for media protection in place. <br/>
 ![Image 6](https://i.imgur.com/XfoS1Rn.jpg)
 
 **Step 8: Repetition for Each Control**  
